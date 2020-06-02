@@ -17,7 +17,7 @@ Digitale kinderBoeken Website
 * Moet voorgelezen worden en kind kan meelezen
 
 # Should Have
-Een badge op uitlezen van een boek?
-Leerlingensysteem?
-Pagina omslaan?
+* Een badge op uitlezen van een boek?
+* Leerlingensysteem?
+* Pagina omslaan?
 
