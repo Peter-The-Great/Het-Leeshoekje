@@ -1,0 +1,26 @@
+body {
+    background: url("") no-repeat center center fixed;
+    background-size: cover;
+}
+.login-box {
+    background-color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 18vh;
+    width: 50%;
+}
+.register-box {
+    background-color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 8vh;
+    width: 50%;
+}
+img {
+    max-height: 120px;
+    text-align: center;
+}
+
+a {
+    color: #343a40 !important;
+}
