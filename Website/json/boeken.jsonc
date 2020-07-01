@@ -1,0 +1,23 @@
+[
+    {
+    "id":1,
+    "type":"Tip de Muis",
+    "boek": "Op bezoek bij Papa",
+    "image": "https://i.ebayimg.com/00/s/MTAyNFg5NDg=/z/5ikAAOSwvuxelGr7/$_84.JPG",
+    "url": "tip_de_muis_papa"
+    },
+    {
+    "id": 2,
+    "type": "Tip de Muis",
+    "boek": "Op bezoek bij Oma",
+    "image": "https://i.ebayimg.com/00/s/MTAyNFg5NDg=/z/5ikAAOSwvuxelGr7/$_84.JPG",
+    "url": "tip_de_muis_oma"
+    },
+    {
+    "id":3,
+    "type": "Het verhaal van",
+    "boek": "IJsvinger",
+    "image": "https://media.s-bol.com/xOrqy0KYpWB/550x453.jpg",
+    "url": "het_verhaal_van_ijsvinger"
+    }
+]
